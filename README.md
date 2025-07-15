@@ -1,7 +1,7 @@
 <!-- GitHub Profile README in HTML Style -->
 
 <div align="center">
-  <h1>Hi there 👋, I'm <span style="color:#007acc;">ZN SQUARD</span></h1>
+  <h1>Hi there 👋, I'm <span style="color:#007acc;">Abhishek Kumar</span></h1>
   <h3>BCA Student | C | C++ | Core Java | HTML Developer</h3>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding gif" />
 </div>
